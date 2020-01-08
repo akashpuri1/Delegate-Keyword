@@ -1,0 +1,11 @@
+D:\DotNet Projects\Deligate\Deligate\bin\Debug\netcoreapp3.0\Deligate.exe
+D:\DotNet Projects\Deligate\Deligate\bin\Debug\netcoreapp3.0\Deligate.deps.json
+D:\DotNet Projects\Deligate\Deligate\bin\Debug\netcoreapp3.0\Deligate.runtimeconfig.json
+D:\DotNet Projects\Deligate\Deligate\bin\Debug\netcoreapp3.0\Deligate.runtimeconfig.dev.json
+D:\DotNet Projects\Deligate\Deligate\bin\Debug\netcoreapp3.0\Deligate.dll
+D:\DotNet Projects\Deligate\Deligate\bin\Debug\netcoreapp3.0\Deligate.pdb
+D:\DotNet Projects\Deligate\Deligate\obj\Debug\netcoreapp3.0\Deligate.csprojAssemblyReference.cache
+D:\DotNet Projects\Deligate\Deligate\obj\Debug\netcoreapp3.0\Deligate.AssemblyInfoInputs.cache
+D:\DotNet Projects\Deligate\Deligate\obj\Debug\netcoreapp3.0\Deligate.AssemblyInfo.cs
+D:\DotNet Projects\Deligate\Deligate\obj\Debug\netcoreapp3.0\Deligate.dll
+D:\DotNet Projects\Deligate\Deligate\obj\Debug\netcoreapp3.0\Deligate.pdb
